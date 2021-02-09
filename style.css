@@ -1,0 +1,47 @@
+.time-sets{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    justify-items: center;
+    align-items: center;
+}
+
+.dual-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 600px;
+    margin: auto;
+    justify-items: center;
+    align-items: center;
+}
+
+body{
+    background-color: #A1B8CF;
+}
+
+h2{
+    text-align: left;
+}
+
+h1{
+    font-weight: 700;
+}
+
+footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+@media (max-width: 990px) {
+    h2{
+        font-size: 40px;
+    }
+    h3{
+        font-size: 40px;
+    }
+    .myStuff{
+        font-size: 40px;
+        text-align: left;
+    }
+
+}

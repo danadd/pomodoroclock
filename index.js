@@ -128,7 +128,7 @@ function App(){
             </button>
 
             <footer>
-            <h3 class="myStuff p-5"> Want to see more projects by me? Visit me<a href="danadd.github.io/"> here at dd.github.io/</a> for more projects and contact information.</h3>
+            <h3 class="myStuff p-5"> Want to see more projects by me? Visit me<a href="https://danadd.github.io/"> here at danadd.github.io/</a> for more projects and contact information.</h3>
             </footer>
         </div>
 
